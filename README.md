@@ -6,6 +6,5 @@ I'm a Software Engineer with a passion for problem-solving, backend development,
 
 ## LeetCode Achievements
 
-[![50_Days_Badge_2024](https://leetcode.com/medal/?showImg=0&id=4626816&isLevel=false)](https://leetcode.com/u/ahmedgaper/)
-[![100_Days_Badge_2024](https://leetcode.com/medal/?showImg=0&id=5086970&isLevel=false)](https://leetcode.com/u/ahmedgaper/)
+[![100 Days Badge](https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png)](https://leetcode.com/u/ahmedgaper/)  [![50 Days Badge](https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png)](https://leetcode.com/u/ahmedgaper/)
 
